@@ -28,8 +28,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superstar-14&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar-14&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=superstar-14&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=superstar-14&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="languages graph" />
 </div>
 
 ###
